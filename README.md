@@ -1,4 +1,4 @@
 # leadmanagersystem
 
 port is localhost:8001
-django react js babel , these are used for this management system
+python django react , these are used for this management system
